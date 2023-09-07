@@ -9,7 +9,7 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Algorithm
 1. Read the given CSV file.
-2. Import the necessary packages.
+2. Import the necessary libraries.
 3. Split the values for training and testing.
 4. Implement Linear Regression
 5. Plot the regression line.
