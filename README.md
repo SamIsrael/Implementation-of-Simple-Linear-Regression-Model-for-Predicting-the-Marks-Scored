@@ -9,7 +9,7 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Algorithm
 1. Read the given CSV file.
-2. Import the necessary libraries.
+2. Import the necessary libraries and functions.
 3. Split the values for training and testing.
 4. Implement Linear Regression
 5. Plot the regression line.
@@ -30,7 +30,7 @@ print(df.head())
 print(df.tail())
 print(df.info())
 ```
-#### Importing the necessary libraries.
+#### Importing the necessary libraries and functions.
 ```python
 import numpy as np
 from sklearn.metrics import mean_absolute_error, mean_squared_error
