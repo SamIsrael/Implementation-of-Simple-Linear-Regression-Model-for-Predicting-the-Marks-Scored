@@ -30,7 +30,7 @@ print(df.head())
 print(df.tail())
 print(df.info())
 ```
-#### Importing the necessary packages.
+#### Importing the necessary libraries.
 ```python
 import numpy as np
 from sklearn.metrics import mean_absolute_error, mean_squared_error
