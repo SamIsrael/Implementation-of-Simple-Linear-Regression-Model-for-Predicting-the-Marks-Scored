@@ -91,8 +91,9 @@ Y_pred1
 ## Output:
 ![Alt text](image.png)
 ![Alt text](image-1.png)
-![Alt text](image-2.png)
-![Alt text](image-3.png)
+![Alt text](image-2.png)<br>
+![image](https://github.com/SamIsrael/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707037/1e0c35e3-4033-49ec-b4e9-c004ec2a21a8)
+
 
 ## Result:
 Thus, the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
